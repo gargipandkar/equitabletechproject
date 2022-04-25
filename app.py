@@ -11,8 +11,8 @@ cyto.load_extra_layouts()
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
 server = app.server
 
-nodes_df = pd.read_csv('nodes.csv')
-edges_df = pd.read_csv('edges.csv')
+nodes_df = pd.read_csv('./data/nodes.csv')
+edges_df = pd.read_csv('./data/edges.csv')
 
 nodes = [
     {
