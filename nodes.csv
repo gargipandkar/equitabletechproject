@@ -1,0 +1,29 @@
+﻿id,topic,text,link,x,y,locked,grabbable
+1,Immigration,This is a topic, ,230,14,TRUE,FALSE
+2,topic2,This is a topic, ,301,59,TRUE,FALSE
+3,topic3,This is a topic, ,367,59,TRUE,FALSE
+4,Local politics,This is a topic, ,435,51,TRUE,FALSE
+5,topic5,This is a topic, ,369,158,TRUE,FALSE
+6,topic6,This is a topic, ,289,175,TRUE,FALSE
+7,Death penalty,This is a topic, ,236,217,TRUE,FALSE
+8,topic8,This is a topic, ,179,165,TRUE,FALSE
+9,Education,This is a topic, ,67,182,TRUE,FALSE
+10,Environment,This is a topic, ,89,71,TRUE,FALSE
+11,topic11,This is a topic, ,169,47,TRUE,FALSE
+12,Immigration,,,200,5,FALSE,TRUE
+13,Local politics,"Lawrence Wong clear choice to helm PAP's 4G leadership, with 15 of 19 stakeholders backing him",https://www.straitstimes.com/singapore/politics/lawrence-wong-clear-choice-to-helm-paps-4g-leadership-with-15-of-19-stakeholders-backing-him,450,60,FALSE,TRUE
+14,Death penalty,Majority of Singapore residents still support death penalty in latest MHA survey: Shanmugam,https://www.channelnewsasia.com/singapore/death-penalty-majority-singapore-residents-support-shanmugam-2535331,245,230,FALSE,TRUE
+15,Education,Changing PSLE scoring system,https://www.moe.gov.sg/microsites/psle-fsbb/psle/main.html,60,185,FALSE,TRUE
+16,Environment,Overview of Singapore's Climate Action,https://www.nccs.gov.sg/singapores-climate-action/overview/national-circumstances,59,71,FALSE,TRUE
+17,Death penalty,,https://www.instagram.com/p/CcXi_1jD9qY/,236,225,FALSE,TRUE
+18,Death penalty,3 April 2022 protest against the death penalty at Hong Lim Park,https://twitter.com/jolovanwham/status/1510449666957406209?cxt=HHwWgsDToYX-mPYpAAAA,236,225,FALSE,TRUE
+19,Death penalty,Gobi a/l Avedian v Public Prosecutor,https://deathpenaltyproject.org/malaysian-man-has-death-sentence-quashed-as-judgment-in-singapore-makes-judicial-history/,236,225,FALSE,TRUE
+20,Environment,Students 4 Fossil Free Future - Calling for an end to the fossil fuel industry’s influence on our educational institutions,https://www.instagram.com/p/CZRgmcOpASM/,80,71,FALSE,TRUE
+21,Education,Ex-MOE policy officer explains 3 biggest problems with S'pore's education system,https://mothership.sg/2018/06/moe-elitism-fundamental-problems/,65,190,FALSE,TRUE
+22,Education,Parents’ Opinions: The New PSLE Scoring System 2021,https://www.phd-education.com.sg/post/parents-opinions-the-new-psle-scoring-system-2021,65,190,FALSE,TRUE
+23,Education,These PSLE changes won’t fix our national obsession with academic achievement,https://www.channelnewsasia.com/commentary/psle-changes-scoring-achievement-levels-academic-achievement-1319831,65,190,FALSE,TRUE
+24,Local politics,Young Singaporeans Are Brutally Honest: The 4G Leaders Are Not Vibing With Them,https://thekopi.co/2020/07/23/young-singaporeans-are-brutally-honest-the-4g-leaders-are-not-vibing-with-them/,445,51,FALSE,TRUE
+25,Local politics,Who is the Prime Minister of your choice?,https://www.youtube.com/watch?v=P5a47R2epGU,445,51,FALSE,TRUE
+26,Local politics,"Limbang residents describe Lawrence Wong as a caring, down-to-earth MP, proud he is set to be next PM",https://www.todayonline.com/singapore/limbang-residents-describe-lawrence-wong-caring-down-earth-mp-proud-he-set-be-next-pm-1874106,445,51,FALSE,TRUE
+27,Environment,#eastcoastbeachplan,https://www.facebook.com/media/set/?set=a.10157076321140899&type=3,80,71,FALSE,TRUE
+28,Environment,"Only 13% of S'pore's domestic waste was recycled in 2021, even as households throw out more rubbish",https://www.straitstimes.com/singapore/environment/only-13-of-spores-domestic-waste-was-recycled-in-2021-even-as-households-throw-out-more-rubbish,80,71,FALSE,TRUE
